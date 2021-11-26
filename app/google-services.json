@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "503000521180",
+    "project_id": "halukay-a00c5",
+    "storage_bucket": "halukay-a00c5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503000521180:android:f9588c9eaafa8d0856d719",
+        "android_client_info": {
+          "package_name": "com.example.halukay"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "503000521180-6jj0oes8t42e386698569p1jgja1ljts.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbbW3ZUTW8ITZt6Nhob-uDKSeVVWSYBwM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "503000521180-6jj0oes8t42e386698569p1jgja1ljts.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
